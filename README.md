@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://www.freecodecamp.org/news/content/images/2022/01/Untitled-design-6.png"></p>
+<p align="center"> <img src="https://www.freecodecamp.org/news/content/images/2022/01/Untitled-design-6.png" width = "100%"></p>
 <h1 align="center">Hi 👋, I'm Rithin Chand</h1>
 <h3 align="center">A passionate FullStack and AI developer from India</h3>
 
