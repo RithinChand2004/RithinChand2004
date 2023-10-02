@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://www.freecodecamp.org/news/content/images/2022/01/Untitled-design-6.png" width = "80%", height = "300px"></p>
 <h1 align="center">Hi 👋, I'm Rithin Chand</h1>
-<h3 align="center">A passionate FullStack and AI developer from India</h3>
+<h3 align="center">A passionate FullStack, AI and Game developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithinchand2004&label=Profile%20views&color=0e75b6&style=flat" alt="rithinchand2004" /> </p>
 
